@@ -2,7 +2,7 @@
 	PaceCar_LiveryId: 	1698,	// The LiveryId of the Pace-Car - Set to -1 to deactivate and do Formation-Lap without Pace-Car
 	SlowZone_Start:		1300,	// Distance from Finish-Line to start Slow-Zone
 	GreenZone_Start:	200,	// Distance from Finish-Line to start Green-Zone
-	SpeedLimit:			100,	// Speed-Limit for Formation-Lap - Warnings will show at set value + 30
-	Space_Min:			20,		// Minimum amount of space to Car in front in meters
-	Space_Max:			100		// Maximum amount of space to Car in front in meters
+	SpeedLimit:		100,	// Speed-Limit for Formation-Lap - Warnings will show at set value + 30
+	Space_Min:		20,		// Minimum amount of space to Car in front in meters
+	Space_Max:		100		// Maximum amount of space to Car in front in meters
 }
