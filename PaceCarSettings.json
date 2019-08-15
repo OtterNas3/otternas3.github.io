@@ -1,8 +1,8 @@
 {
-	PaceCar_LiveryId: 1698,
-	SlowZone_Start: 1300,
-	GreenZone_Start: 200,
-	SpeedLimit: 100,
-	Space_Min: 20,
-	Space_Max: 100	
+	"PaceCar_LiveryId": 1698,
+	"SlowZone_Start": 1300,
+	"GreenZone_Start": 200,
+	"SpeedLimit": 100,
+	"Space_Min": 20,
+	"Space_Max": 100	
 }
