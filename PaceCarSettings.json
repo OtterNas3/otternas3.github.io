@@ -3,6 +3,6 @@
 	"SlowZone_Start": 1300,
 	"GreenZone_Start": 200,
 	"SpeedLimit": 100,
-	"Space_Min": 20,
-	"Space_Max": 100	
+	"Distance_Min": 20,
+	"Distance_Max": 100	
 }
