@@ -1,3 +1,3 @@
 <img
-				src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fotterhud.github.io&count_bg=%2379C83D00&title_bg=%2355555500&icon=&icon_color=%23E7E7E700&title=Times+used&edge_flat=false"
+	src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fotternas3.github.io%2Fdist%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Times+used&edge_flat=false"
 />
